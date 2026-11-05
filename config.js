@@ -1,5 +1,5 @@
 const ARA_CONFIG = {
-  mode: 'personal', // 'personal' = unlimited, 'demo' = countdown timer
+  mode: 'demo', // 'personal' = unlimited, 'demo' = countdown timer
   providers: {
     gemini: { apiKey: '', model: 'gemini-2.0-flash', enabled: true },
     openai: { apiKey: '', model: 'gpt-4o-mini', enabled: false },
